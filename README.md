@@ -39,19 +39,19 @@ It is desired to determine how much a 25-year-old male user from Turkey, who is 
 ## Some screenshots from the project
 
 <p>
-  <img src="./images/ss1.png" width="350" title="hover text">
+  <img src="./images/ss1.PNG" width="350" title="hover text">
 </p>
 
 <p>
-  <img src="./images/ss2.png" width="350" title="hover text">
+  <img src="./images/ss2.PNG" width="350" title="hover text">
 </p>
 
 <p>
-  <img src="./images/ss3.png" width="350" title="hover text">
+  <img src="./images/ss3.PNG" width="350" title="hover text">
 </p>
 
 <p>
-  <img src="./images/ss4.png" width="350" title="hover text">
+  <img src="./images/ss4.PNG" width="350" title="hover text">
 </p>
 
 ## Requirements.txt
