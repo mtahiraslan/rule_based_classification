@@ -3,6 +3,10 @@
 
 ![img](https://www.marketinginasia.com/wp-content/uploads/2022/11/Purple-Audience-Segmentation-Illustration-Instagram-Post-e1668582898828.png)
 
+##
+
+Streamlit App Link: https://mtahiraslan-rule-based-classif-rule-based-classification-glgmpp.streamlit.app/
+
 ## What is Rule-Based Classification?
 
 "Rule-based classification is a method of classifying data in a dataset based on specific rules. In this method, certain rules are established for classifying the data, and the data is classified based on these rules.
