@@ -29,7 +29,7 @@ st.markdown(
     """
 )
 
-persona = 'RBC/persona.csv'
+persona = 'persona.csv'
 df = pd.read_csv(persona)
 
 
