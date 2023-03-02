@@ -11,7 +11,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
     )
 
-image = Image.open('RBC/customer.jpg')
+image = Image.open('customer.jpg')
 
 st.image(image, width=200)
 
